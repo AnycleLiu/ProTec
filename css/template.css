@@ -1,0 +1,140 @@
+@charset "utf-8";
+/*顶部固定菜单*/
+div.menu_box
+{
+	min-width:800px;
+	width:100%;
+	height:30px;
+	background:#2d2d2d;
+	position:fixed;
+	top:0px;
+	left:0px;
+	z-index:400;
+}
+.menu_container
+{
+	width:80%;
+	height:30px;
+	margin:0px auto;
+}
+.menu
+{
+    list-style: none outside;
+    margin: 0;
+	
+}
+.menu_item
+{
+	display:block;
+    line-height: 30px;
+    padding: 0px;
+	margin:0px;
+	float:left;
+    position: relative;
+	font:bold;
+	padding:0px 5px;
+}
+.menu_item a
+{
+	text-decoration:none;
+	color:#cccccc;
+}
+.menu_item_sub_container
+{
+	display:none;
+}
+.menu_item_sub
+{
+	list-style: none;
+    margin:0px;
+	padding:0px;
+}
+.menu_item_sub_item
+{
+	display:block;
+	float:left;
+}
+/*footer*/
+.footer_container
+{
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	border:none;
+	background:#ffffff;
+	color:#555555;
+}
+.footer_content
+{
+	width:70%;
+	margin:5px auto;
+	text-align:center;
+	padding:5px;
+}
+/*content*/
+.content_left
+{
+	min-width:500px;
+	background: none repeat scroll 0 0 white;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+	width:55%;
+	left:10%;
+	margin-top:40px;
+	position:absolute;
+}
+.content_right
+{
+	font-family:Arial, Helvetica, sans-serif;
+	background: none repeat scroll 0 0 white;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+	width:20%;
+	margin-top:40px;
+	left:70%;
+	position:fixed;
+	text-align:center;
+}
+.content_item
+{
+	width:100%;
+	border-bottom:dashed 1px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+/*书本信息显示模块*/
+book_item
+{
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+    margin: 5px;
+    width:
+}
+body
+{
+	background:#EDEDED;
+	font:Arial sans-serif 1.256em;
+}
+.to_top
+{
+	position:fixed;
+	right:40px;
+	bottom:-12px;
+	background:#EDEDED;
+	z-index:10000;
+}
+.content_right a
+{
+	text-decoration:none;
+	font:small;
+}
+.content_right span
+{
+	font-size:18px;
+	width:100%;
+	font-weight:bold;
+}

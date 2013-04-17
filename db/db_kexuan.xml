@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="gb-2312" ?> 
+<books>
+	<book>
+		<id></id><!--排序号-->
+		<name></name><!--书名-->
+		<author></author><!--作者-->
+		<date></date><!--添加日期-->
+		<href></href><!--源网站下载链接-->
+		<uri></uri><!--图片链接-->
+		<description></description><!--简述-->
+	</book>
+</books>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<books>
+	<book>
+		<id>1</id>
+		<name>斗破苍穹</name>
+		<author>天蚕土豆</author>
+		<date>2012-8-8</date>
+		<href>http://download.qidian.com/pda/1209977.txt</href>
+		<uri>http://image.cmfu.com/books/1209977/1209977.jpg</uri>
+		<description>这里是属于斗气的世界，没有花俏艳丽的魔法，有的，仅仅是繁衍到巅峰的斗气！ 
+    新书等级制度：斗者，斗师，大斗师，斗灵，斗王，斗皇，斗宗，斗尊，斗圣，斗帝。 
+		</description>
+	</book>
+	<book>
+		<id>2</id>
+		<name>仙逆</name>
+		<author>耳根</author>
+		<date>2012-8-10</date>
+		<href>http://download.qidian.com/pda/1264634.txt</href>
+		<uri>http://image.cmfu.com/books/1264634/1264634.jpg</uri>
+		<description>顺为凡，逆则仙，只在心中一念间…… </description>
+	</book>
+	<book>
+		<id>3</id>
+		<name>异世邪君</name>
+		<author> 风凌天下</author>
+		<date>2012-8-11</date>
+		<href>http://download.qidian.com/pda/1524659.txt</href>
+		<uri>http://image.cmfu.com/books/1524659/1524659.jpg</uri>
+		<description>世间毁誉，世人冷眼，与我何干？我自淡然一笑；
+    以吾本性，快意恩仇，以吾本心，遨游世间，我命由我不由天！
+    一代牛人穿越异界，看其如何踏上异世巅峰，成为一代邪君！
+		</description>
+	</book>
+	<book>
+		<id>4</id>
+		<name>七界传说</name>
+		<author> 心梦无痕</author>
+		<date>2012-8-11</date>
+		<href>http://wt.mt30.com/200903/%E3%80%8A%E4%B8%83%E7%95%8C%E4%BC%A0%E8%AF%B4%E3%80%8B%E5%AE%8C%E6%95%B4%E7%89%88TXT%E5%85%A8%E9%9B%86.rar</href>
+		<uri>http://image.cmfu.com/books/1048718/1048718.jpg</uri>
+		<description>修真界，流传着五派六院七界之传说。陆云先天残缺，一条逆天之路，夹着几份难忘的爱情与友情，一路之上，历经磨难，可最后的结果，
+		会是什么呢？神仙佛道，妖魔鬼怪，邪灵阴魂，百兽齐聚。正与邪，谁对谁错，是与非善恶无常。何为天，何为地，神仙鬼怪谁能看透？
+		</description>
+	</book>
+</books>

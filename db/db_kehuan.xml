@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<books>
+	<book>
+		<id>1</id>
+		<name>吞噬星空</name>
+		<author>我吃西红柿</author>
+		<date>2012-8-11</date>
+		<href>http://download.qidian.com/pda/1639199.txt</href>
+		<uri>http://image.cmfu.com/books/1639199/1639199.jpg</uri>
+		<description> 星空中。
+    “这颗星球，通体土黄色，没有任何生命存在，直径21000公里，咦，
+	竟然蕴含‘星泪金’矿脉，真是天助我也，将这颗星球吞噬掉后，我的实力应该能恢复到受伤前的80％。”
+	脸色苍白的罗峰盘膝坐在一颗飞行的陨石上，遥看远处的一颗无生命存在的行星。
+	</description>
+	</book>
+</books>
