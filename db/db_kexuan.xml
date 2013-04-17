@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="gb-2312" ?> 
 <books>
 	<book>
-		<id></id><!--�����-->
-		<name></name><!--����-->
-		<author></author><!--����-->
-		<date></date><!--��������-->
-		<href></href><!--Դ��վ��������-->
-		<uri></uri><!--ͼƬ����-->
-		<description></description><!--����-->
+		<id>1</id>
+		<name>最强改造</name>
+		<author></author>
+		<date>2013-04-17</date><
+		<href>http://image.cmfu.com/books/2558646/2558646.jpg</href>
+		<uri>http://download.qidian.com/pda/2558646.txt</uri>
+		<description>   杨一伟没什么太大的理想，
+					    或者说有再大的理想也只能承认现实的强悍，
+					    他只准备老老实实毕业工作结婚生子过完一生，
+					    谁也没想到，
+					    一次意外让他买回一个可以将任何生物改造为机械生物的笔记本，
+					    生活随之而来发生了天翻地覆的变化，
+					    那些压抑在心中的热血和梦想有了实现的渠道，
+					    让他的人生不再是盗版！
+        </description>
 	</book>
 </books>
